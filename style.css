@@ -115,3 +115,9 @@ section{
 .section__img img{
     width: 750px;
 }
+button{
+    cursor: pointer;
+}
+ul li a{
+    cursor: pointer;
+}
